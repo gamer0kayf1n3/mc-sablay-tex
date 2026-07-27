@@ -14,10 +14,10 @@ https://mcasset.cloud/1.21.11/assets/minecraft/textures/entity/equipment/humanoi
 https://resourcepackcreator.com/
 https://en.wikipedia.org/wiki/File:University_of_The_Philippines_seal.svg
 
-Copyright (c) 2026 gamer0kayf1n3
-
 Minecraft is a trademark of Mojang AB.
 
 The University of the Philippines name and logo are registered trademarks. This material is used strictly for non-commercial, educational purposes under the Fair Use provisions of the Intellectual Property Code of the Philippines.
 
 This resource pack is not affiliated with Minecraft nor Mojang AB, and the University of the Philippines.
+
+Copyright (c) 2026 gamer0kayf1n3. All rights reserved.
